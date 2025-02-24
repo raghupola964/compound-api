@@ -17,7 +17,7 @@ This project implements **Option A (Backend Emphasis)** of the Compound Advisor 
 1. **Clone the Repository**:
 ```bash
    git clone https://github.com/raghupola964/compound-api
-   cd compound api 
+   cd compound-api 
 ```
 
 2. **Install Dependencies**:
