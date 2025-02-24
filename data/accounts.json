@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Bradley Green - 401k",
+        "number": "21889645",
+        "rep_id": "9883",
+        "holdings": [{ "ticker": "HEMCX", "units": 77, "unitPrice": 398.63 }],
+        "custodian": "Schwab"
+    },
+    {
+        "name": "Alice Johnson - IRA",
+        "number": "87654321",
+        "rep_id": "1234",
+        "holdings": [
+            { "ticker": "VTSAX", "units": 150, "unitPrice": 100.50 },
+            { "ticker": "BND", "units": 50, "unitPrice": 80.25 }
+        ],
+        "custodian": "Fidelity"
+    },
+    {
+        "name": "Bob Smith - Roth IRA",
+        "number": "13579246",
+        "rep_id": "5678",
+        "holdings": [{ "ticker": "SPY", "units": 200, "unitPrice": 400.75 }],
+        "custodian": "Vanguard"
+    },
+    {
+        "name": "Emily Davis - 403(b)",
+        "number": "98765432",
+        "rep_id": "9012",
+        "holdings": [
+            { "ticker": "FXAIX", "units": 100, "unitPrice": 120.30 },
+            { "ticker": "AGG", "units": 75, "unitPrice": 110.90 }
+        ],
+        "custodian": "TD Ameritrade"
+    },
+    {
+        "name": "Michael Wilson - Trust",
+        "number": "24681357",
+        "rep_id": "3456",
+        "holdings": [
+            { "ticker": "QQQ", "units": 80, "unitPrice": 350.55 },
+            { "ticker": "IWM", "units": 60, "unitPrice": 180.65 }
+        ],
+        "custodian": "Pershing"
+    },
+    {
+        "name": "Jessica Garcia - SEP IRA",
+        "number": "36912159",
+        "rep_id": "7890",
+        "holdings": [{ "ticker": "VOO", "units": 120, "unitPrice": 380.20 }],
+        "custodian": "E*TRADE"
+    },
+    {
+        "name": "David Rodriguez - 457(b)",
+        "number": "75315975",
+        "rep_id": "2468",
+        "holdings": [
+            { "ticker": "IVV", "units": 90, "unitPrice": 395.85 },
+            { "ticker": "IJH", "units": 50, "unitPrice": 220.45 }
+        ],
+        "custodian": "Charles Schwab"
+    },
+    {
+        "name": "Sarah Martinez - Rollover IRA",
+        "number": "45678912",
+        "rep_id": "1357",
+        "holdings": [
+            { "ticker": "DIA", "units": 110, "unitPrice": 360.90 },
+            { "ticker": "IEMG", "units": 40, "unitPrice": 55.70 }
+        ],
+        "custodian": "Merrill Lynch"
+    },
+    {
+        "name": "Christopher Taylor - UGMA",
+        "number": "96385274",
+        "rep_id": "9753",
+        "holdings": [{ "ticker": "VTI", "units": 180, "unitPrice": 210.15 }],
+        "custodian": "Interactive Brokers"
+    },
+    {
+        "name": "Ashley Anderson - UTMA",
+        "number": "14725836",
+        "rep_id": "8642",
+        "holdings": [
+            { "ticker": "VXUS", "units": 70, "unitPrice": 60.35 },
+            { "ticker": "BNDX", "units": 30, "unitPrice": 58.80 }
+        ],
+        "custodian": "Robinhood"
+    }
+]

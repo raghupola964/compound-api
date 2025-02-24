@@ -1,0 +1,52 @@
+[
+    {
+      "ticker": "ICKAX",
+      "name": "Delaware Ivy Crossover Credit Fund Class A",
+      "date_added": "2001-06-07T11:12:56.205Z"
+    },
+    {
+      "ticker": "HEMCX",
+      "name": "Example High Yield Fund",
+      "date_added": "2020-01-15T09:00:00.000Z"
+    },
+    {
+        "ticker": "AAAAX",
+        "name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+        "date_added": "2005-03-15T09:30:00.000Z"
+    },
+    {
+        "ticker": "BBBBX",
+        "name": "Fidelity 500 Index Fund",
+        "date_added": "2010-11-22T14:45:30.123Z"
+    },
+    {
+        "ticker": "CCCBX",
+        "name": "iShares Core S&P 500 ETF",
+        "date_added": "2015-07-01T10:00:00.000Z"
+    },
+    {
+        "ticker": "VTSAX",
+        "name": "Schwab Total Stock Market Index (SWTSX)",
+        "date_added": "2018-09-19T16:20:45.500Z"
+    },
+    {
+        "ticker": "EEEEF",
+        "name": "SPDR S&P 500 ETF Trust",
+        "date_added": "2020-01-02T12:35:10.789Z"
+    },
+    {
+        "ticker": "VTSME",
+        "name": "Invesco QQQ Trust",
+        "date_added": "2021-04-08T08:50:25.210Z"
+    },
+    {
+        "ticker": "GGGGH",
+        "name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+        "date_added": "2003-12-05T15:15:00.000Z"
+    },
+    {
+        "ticker": "HHHHH",
+        "name": "Pimco Total Return Fund",
+        "date_added": "2007-06-29T11:05:55.987Z"
+    }
+]
